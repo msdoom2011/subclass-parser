@@ -1,0 +1,11 @@
+{
+  "name": "SubclassParser",
+  "version": "0.1.0",
+  "authors": [
+    "Dmitriy Osipishin | <msdoom2011@gmail.com>"
+  ],
+  "description": "The plugin for Subclass framework which allows to parse strings",
+  "main": "Gruntfile.js",
+  "license": "MIT",
+  "private": true
+}
